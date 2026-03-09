@@ -57,19 +57,10 @@ Final year Computer Science student at Taylor's University, specializing in **Cy
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin-0805&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-0805&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## Contact & Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-kelvin--0805-181717?style=flat&logo=github)](https://github.com/kelvin-0805)
-[![Email](https://img.shields.io/badge/Email-reach%20me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-reach%20me-D14836?style=flat&logo=gmail&logoColor=white)](www.kelvinchang243@email.com)
 
 ---
 
